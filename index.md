@@ -1,7 +1,7 @@
 ---
 layout: home2
 title: Latest news
-description: "Laura Leal-Taixe's website"
+description: “Dário Oliveira’s website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: grafiti.png
