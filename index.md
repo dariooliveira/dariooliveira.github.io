@@ -4,7 +4,7 @@ title: Latest news
 description: “Dário Oliveira’s website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: grafitipt.png
+  feature: rio.png
 ---
 
 <section>
