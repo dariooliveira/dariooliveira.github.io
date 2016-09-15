@@ -3,8 +3,8 @@ layout: home2
 title: Latest news
 description: “Dário Oliveira’s website"
 tags: [Jekyll, theme, responsive, blog, template]
-#image:
-#  feature: grafiti.png
+image:
+  feature: grafiti.png
 ---
 
 <section>
