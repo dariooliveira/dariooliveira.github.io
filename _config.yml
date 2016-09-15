@@ -1,17 +1,17 @@
-title:            Laura’s Home
-description:      Welcome to Laura’s world!
+title:            Dário’s Home
+description:      Welcome to Dario’s world!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              https://lealtaixe.github.io
-disqus_shortname: lealtaixe
+url:              https://dariooliveira.github.io
+disqus_shortname: dariooliveira
 
 # Owner/author information
 owner:
-  name:           Laura Leal-Taixé
-  avatar:         laura_bw.png
-  bio:            I'm from the lively town of Barcelona! I currently work in Munich as a postdoctoral researcher, after spending some wonderful time in Zurich, Ann Arbor and Hannover. 
-  email:          leal.taixe@tum.de
+  name:           Dário Oliveira
+  avatar:         dario.png
+  bio:            Currently, most of my time is dedicated to uncover the parenting world but in the mean time I enjoy working with images! I’m from Rio and currently work at IBM Research in São Paulo, after living some time in Lisbon and Hannover.
+  email:          
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lealtaixe
+  twitter: 
   linkedin: laura-leal-taixé-b0361b108
   google_scholar: tT2TC-UAAAAJ
   github: lealtaixe
@@ -30,8 +30,8 @@ links:
     url: /publications/
   - title: Code
     url: /code/
-  - title: Academic activities
-    url: /academic_activities/
+  - title: Projects
+    url: /projects/
   - title: Contact
     url: /contact/
  
