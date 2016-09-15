@@ -8,7 +8,7 @@ disqus_shortname: dariooliveira
 owner:
   name:           Dário Oliveira
   avatar:         dario.jpg
-  bio:            Currently, most of my time is dedicated to uncover the parenting world but in the mean time I enjoy working with images! I’m from Rio and currently work at IBM Research in São Paulo, after living some time in Lisbon and Hannover.
+  bio:            #Currently, most of my time is dedicated to uncover the parenting world but in the mean time I enjoy working with images! I’m from Rio and currently work at IBM Research in São Paulo, after living some time in Lisbon and Hannover.
   email:          
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
@@ -24,14 +24,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Curriculum
-    url: /cv/
-  - title: Publications
-    url: /publications/
-  - title: Code
-    url: /code/
-  - title: Projects
-    url: /projects/
+#  - title: Curriculum
+#    url: /cv/
+#  - title: Publications
+#    url: /publications/
+#  - title: Code
+#    url: /code/
+#  - title: Projects
+#    url: /projects/
   - title: Contact
     url: /contact/
  

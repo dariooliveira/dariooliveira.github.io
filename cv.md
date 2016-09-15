@@ -13,7 +13,7 @@ comments: false
     <p align="center">
     <img src="{{ site.url }}/images/CV/job.png" alt="Work Experience"  width="70">
     </p>
-  <div style="text-align:center"><ul><li>I am a <strong> senior postdoctoral researcher</strong> at the <a href="https://vision.in.tum.de/">Computer Vision Group</a> of the <a href="http://www.tum.de/en/homepage/" target="_blank">Technical University of Munich</a>, working with <a href="https://vision.in.tum.de/members/cremers">Prof. Daniel Cremers</a>. </li>
+  <div style="text-align:center"><ul><li>I am a <strong> researcher</strong> at the <a href="https://vision.in.tum.de/">Systems of Engagement and Insight Group</a> of <a href="http://www.research.ibm.com/labs/brazil/" target="_blank">IBM Research Brazil</a>. </li>
   <br>
  <li> Before, I spent two years as <strong>postdoc</strong> at <a href="https://www.ethz.ch/en.html">ETH Zurich</a> in the <a href="http://www.prs.igp.ethz.ch/">Photogrammetry and Remote Sensing group</a>, working with <a href="http://www.prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=143986">Prof. Konrad Schindler</a>. </li> 
   <br>
