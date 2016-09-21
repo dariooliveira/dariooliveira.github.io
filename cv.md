@@ -51,7 +51,7 @@ comments: false
   <br>
    <li> I have worked a lot with medical imaging, remote sensing image analysis and manufacturing facilities tracking problems.</li>
     <br>
- <li> I don’t care much about which language to use for coding but Python, C++ and MatLab are usual choices. </li> 
+ <li> I don’t care much about which language to use for coding but Python, C++ and MatLab are my usual choices. </li> 
  
 </ul> </div>
 
