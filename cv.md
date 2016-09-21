@@ -19,7 +19,7 @@ comments: false
   <br>
  <li> I spend almost two years as a <strong>researcher</strong> at the <a href="http://www.usp.br/">University of Sao Paulo</a> in <a href="http://http://neuromat.numec.prp.usp.br/">the NeuroMat project</a> doing analytics for Neuroscience. </li> 
  <br>
- <li> I spend one and a half year as a <strong>researcher</strong> at the <a href="http://cpdoc.fgv.br/en/about">CPDOC</a> from <a href=“www.fgv.br/“>Getulio Vargas Foundation</a> doing NLP and image analysis applied to historical databases. </li> 
+ <li> I spend one and a half year as a <strong>researcher</strong> at the <a href="http://cpdoc.fgv.br/en/about">CPDOC</a> from <a href="www.fgv.br/">Getulio Vargas Foundation</a> doing NLP and image analysis applied to historical databases. </li> 
  <br>
 <li> I spend a year as a <strong> visiting scholar</strong> at the <a href="http://www.uni-hannover.de/">Leibniz Universität Hannover</a> in Germany, working in the <a href="https://www.tnt.uni-hannover.de/"> Institut für Informationsverarbeitung</a> with <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
  <br>
