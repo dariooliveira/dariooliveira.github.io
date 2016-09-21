@@ -11,15 +11,17 @@ image:
 
 <ul>
 
-<li>New <a href="http://testing.com"><font color="red"><strong>paper</strong></font></a> on JSTARS for remote sensing.</li>
+<li>New InterImage <a href="http://testing.com"><font color="red"><strong>paper</strong></font></a> on JSTARS about RS image analysis in the cloud.</li>
 
 <br>
 
-<li>New <a href="http://testing.com"><font color="red"><strong>paper</strong></font></a> on vascular network identification.</li>
+<li>New <a href="http://testing.com"><font color="red"><strong>paper</strong></font></a> on CMIG journal about vascular network identification using network flow theory.</li>
 
 <br>
 
 <li>New <a href="http://testing.com"><font color="red"><strong>paper</strong></font></a> on remote sensing whatever! </li>
+
+<li>Check out the <a href="http://www.lvc.ele.puc-rio.br/projects/interimage/"><font color="red"><strong>latest InterImage version</strong></font></a> for remote sensing images interpretation! </li>
 
 </ul>
 
