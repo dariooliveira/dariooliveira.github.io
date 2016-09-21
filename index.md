@@ -27,7 +27,7 @@ image:
 
 <br>
 
-<li>Check out the <a href="http://www.lvc.ele.puc-rio.br/projects/interimage/"><font color="red"><strong>latest InterImage version</strong></font></a> for remote sensing images interpretation! </li>
+<li>Check out the <a href="http://www.lvc.ele.puc-rio.br/projects/interimage/"><font color="red"><strong>latest version</strong></font></a> of InterImage, a free platform for remote sensing imagery analysis! </li>
 
 </ul>
 
