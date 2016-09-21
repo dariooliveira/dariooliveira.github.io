@@ -23,11 +23,11 @@ image:
 
 <br>
 
-<li>Check out the latest <a href="http://www.lvc.ele.puc-rio.br/wp/?p=1861#more-1861"><font color="red"><strong> InterImage Cloud Platform </strong></font></a> version for remote sensing images interpretation in the cloud! </li>
+<li>Check out the latest version of <a href="http://www.lvc.ele.puc-rio.br/wp/?p=1861#more-1861"><font color="red"><strong>InterImage Cloud Platform</strong></font></a> for remote sensing images interpretation in the cloud! </li>
 
 <br>
 
-<li>Check out the <a href="http://www.lvc.ele.puc-rio.br/projects/interimage/"><font color="red"><strong>latest version</strong></font></a> of InterImage, a free platform for remote sensing imagery analysis! </li>
+<li>Check out the latest version of <a href="http://www.lvc.ele.puc-rio.br/projects/interimage/"><font color="red"><strong>InterImage</strong></font></a>, a free platform for remote sensing imagery analysis! </li>
 
 </ul>
 
