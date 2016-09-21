@@ -13,19 +13,19 @@ comments: false
     <p align="center">
     <img src="{{ site.url }}/images/CV/job.png" alt="Work Experience"  width="70">
     </p>
-  <div style="text-align:left"><ul><li>I am a <strong> researcher</strong> at the Systems of Engagement and Insight Group in <a href="http://www.research.ibm.com/labs/brazil/" target="_blank">IBM Research Brazil</a>. </li>
+  <div style="text-align:left"><ul><li>Since 2016, I am a <strong> researcher</strong> at the Systems of Engagement and Insight Group in <a href="http://www.research.ibm.com/labs/brazil/" target="_blank">IBM Research Brazil</a>. </li>
   <br>
- <li> Before, I spent around two years as <strong>Computer Vision researcher</strong> at <a href="http://www.geglobalresearch.com/locations/rio-de-janeiro-brazil">GE Global Research</a> in the Software and Analytics group working with image analytics applied to industry. </li> 
+ <li> From 2015 to 2016, I spent almost two years as <strong>Computer Vision researcher</strong> at <a href="http://www.geglobalresearch.com/locations/rio-de-janeiro-brazil">GE Global Research</a> in the Software and Analytics group working with image analytics applied to industry. </li> 
   <br>
- <li> I spend almost two years as a <strong>researcher</strong> at the <a href="http://www.usp.br/">University of Sao Paulo</a> in <a href="http://http://neuromat.numec.prp.usp.br/">the NeuroMat project</a> doing analytics for Neuroscience. </li> 
+ <li> From 2014 to 2015 I got a <strong>visiting scholar</strong> position at the <a href="http://www.usp.br/">University of Sao Paulo</a> in <a href="http://http://neuromat.numec.prp.usp.br/">the NeuroMat project</a> doing analytics for Neuroscience. </li> 
  <br>
- <li> I spend one and a half year as a <strong>researcher</strong> at the <a href="http://cpdoc.fgv.br/en/about">CPDOC</a> from <a href="www.fgv.br/">Getulio Vargas Foundation</a> doing NLP and image analysis applied to historical databases. </li> 
+ <li> From 2013 to 2014 I worked as a <strong>researcher</strong> at the <a href="http://cpdoc.fgv.br/en/about">CPDOC</a> from <a href="www.fgv.br/">Getulio Vargas Foundation</a> doing NLP and image analysis applied to historical databases. </li> 
  <br>
-<li> I spend a year as a <strong> visiting scholar</strong> at the <a href="http://www.uni-hannover.de/">Leibniz Universität Hannover</a> in Germany, working in the <a href="https://www.tnt.uni-hannover.de/"> Institut für Informationsverarbeitung</a> with <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
+<li> In 2011, I spend a year as a <strong> visiting scholar</strong> at the <a href="http://www.uni-hannover.de/">Leibniz Universität Hannover</a> in Germany, working in the <a href="https://www.tnt.uni-hannover.de/"> Institut für Informationsverarbeitung</a> with <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
  <br>
-<li> I spend 6 months as a <strong> visiting scholar</strong> at the <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico</a> in Lisbon, working in the <a href="http://welcome.isr.tecnico.ulisboa.pt/"> Institute for Systems and Robotics</a> with <a href="http://users.isr.ist.utl.pt/~msilveira/">Prof. Margarida Silveira</a>. </li>
+<li> In 2009, I spend 6 months as a <strong> visiting scholar</strong> at the <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico</a> in Lisbon, working in the <a href="http://welcome.isr.tecnico.ulisboa.pt/"> Institute for Systems and Robotics</a> with <a href="http://users.isr.ist.utl.pt/~msilveira/">Prof. Margarida Silveira</a>. </li>
  <br>
- <li> I started my academic career as a <strong> researcher</strong> at the <a href="http://www.puc-rio.br/">Pontifical Catholic University of Rio de Janeiro</a> in Brazil, working in the <a href="http://www.lvc.ele.puc-rio.br">Computer Vision lab</a> with <a href="http://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a>. </li></ul> </div>
+ <li> I started my academic career in 2007 as a <strong> researcher</strong> at the <a href="http://www.puc-rio.br/">Pontifical Catholic University of Rio de Janeiro</a> in Brazil, working in the <a href="http://www.lvc.ele.puc-rio.br">Computer Vision lab</a> with <a href="http://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a>. </li></ul> </div>
 
   <br>
   
