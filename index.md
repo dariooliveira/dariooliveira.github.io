@@ -11,11 +11,11 @@ image:
 
 <ul>
 
-<li>New InterImage <a href="http://ieeexplore.ieee.org/document/7567537/"><font color="red"><strong>paper</strong></font></a> on JSTARS about RS image analysis in the cloud.</li>
+<li>New InterImage <a href="http://ieeexplore.ieee.org/document/7567537/"><font color="red"><strong>paper</strong></font></a> on JSTARS (2016) about RS image analysis in the cloud.</li>
 
 <br>
 
-<li>New <a href="http://www.medicalimagingandgraphics.com/article/S0895-6111(15)00146-9/"><font color="red"><strong>paper</strong></font></a> on CMIG journal about vascular network identification using network flow theory.</li>
+<li>New <a href="http://www.medicalimagingandgraphics.com/article/S0895-6111(15)00146-9/"><font color="red"><strong>paper</strong></font></a> on CMIG journal (2016) about vascular network identification using network flow theory.</li>
 
 <br>
 
