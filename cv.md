@@ -13,13 +13,15 @@ comments: false
     <p align="center">
     <img src="{{ site.url }}/images/CV/job.png" alt="Work Experience"  width="70">
     </p>
-  <div style="text-align:center"><ul><li>I am a <strong> researcher</strong> at the <a href="https://vision.in.tum.de/">Systems of Engagement and Insight Group</a> of <a href="http://www.research.ibm.com/labs/brazil/" target="_blank">IBM Research Brazil</a>. </li>
+  <div style="text-align:center"><ul><li>I am a <strong> researcher</strong> at the Systems of Engagement and Insight Group in <a href="http://www.research.ibm.com/labs/brazil/" target="_blank">IBM Research Brazil</a>. </li>
   <br>
- <li> Before, I spent two years as <strong>postdoc</strong> at <a href="https://www.ethz.ch/en.html">ETH Zurich</a> in the <a href="http://www.prs.igp.ethz.ch/">Photogrammetry and Remote Sensing group</a>, working with <a href="http://www.prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=143986">Prof. Konrad Schindler</a>. </li> 
+ <li> Before, I spent around two years as <strong>Computer Vision researcher</strong> at <a href="http://www.geglobalresearch.com/locations/rio-de-janeiro-brazil">GE Global Research</a> in the Software and Analytics group working with image analytics applied to industry. </li> 
   <br>
- <li> I spend almost a year as a <strong>visiting scholar</strong> at the <a href="https://www.umich.edu/">University of Michigan</a> in <a href="http://cvgl.stanford.edu/silvio/">Prof. Silvio Savarese</a>'s group. </li> 
+ <li> I spend almost two years as a <strong>researcher</strong> at the <a href="http://www.usp.br/“>University of Sao Paulo</a> in <a href="http://http://neuromat.numec.prp.usp.br/">the NeuroMat project</a> doing analytics for Neuroscience. </li> 
  <br>
- <li> I started my academic career as a <strong> research and teaching assistant</strong> at the <a href="http://www.uni-hannover.de/">Leibniz University Hannover</a> in Germany, working in the <a href="https://www.tnt.uni-hannover.de/">Institute for Information Processing (TNT)</a> with <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li></ul> </div>
+<li> I spend a year as a <strong> visiting scholar</strong> at the <a href="http://www.uni-hannover.de/">Leibniz Universität Hannover</a> in Germany, working in the <a href="https://www.tnt.uni-hannover.de/"> Institut für Informationsverarbeitung</a> with <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
+<li> I spend 6 months as a <strong> visiting scholar</strong> at the <a href="https://tecnico.ulisboa.pt/en/“>Instituto Superior Técnico</a> in Lisbon, working in the <a href="http://welcome.isr.tecnico.ulisboa.pt/"> Institute for Systems and Robotics</a> with <a href="http://users.isr.ist.utl.pt/~msilveira/">Prof. Margarida Silveira</a>. </li>
+ <li> I started my academic career as a <strong> researcher</strong> at the <a href="http://www.puc-rio.br/“>Pontifical Catholic University of Rio de Janeiro</a> in Brazil, working in the <a href="http://www.lvc.ele.puc-rio.br">Computer Vision lab</a> with <a href="hhttp://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a>. </li></ul> </div>
 
   <br>
   
@@ -27,26 +29,25 @@ comments: false
   <p align="center">
     <img src="{{ site.url }}/images/CV/education.png" alt="Education" width="70">
     </p>
-  <div style="text-align:center"><ul><li>I have a <strong>PhD</strong> in Computer Vision from the <a href="">Leibniz University Hannover</a> supervised by <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
+  <div style="text-align:center"><ul><li>I have a <strong>PhD</strong> in Computer Vision from the <a href="">Pontifical Catholic University of Rio de Janeiro</a> supervised by <a href="http://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a> spending one year in the Leibniz Hannover University under the supervision of <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
   <br>
-   <li> I went to Boston to do my <strong>Master Thesis</strong> at <a href="http://www.northeastern.edu/">Northeastern University</a>, and that is where my passion for Computer Vision started!</li>
+   <li> I have a <strong>PhD</strong> in Computer Vision from the <a href="">Pontifical Catholic University of Rio de Janeiro</a> supervised by <a href="http://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a> spending one year in the Instituto Superior Tecnico under the supervision of <a href="http://users.isr.ist.utl.pt/~msilveira/”>Prof. Margarida da Silveira</a>.</li>
     <br>
 
- <li> I studied the bachelor and master in <strong>Telecommunications Engineering</strong> at the <a href="http://www.upc.edu/?set_language=en">Technical University of Catalonia (UPC)</a>.</li> 
+ <li> I studied the bachelor in <strong>Electrical Engineering</strong> at the <a href="http://www.uerj.br/idiomas.php#gb”>Rio de Janeiro State University (UERJ)</a>.</li> 
  
 </ul> </div>
 
 <br>
 
   <p align="center">
-    <img src="{{ site.url }}/images/CV/pencil.png" alt="Research and teaching" width="70">
+    <img src="{{ site.url }}/images/CV/pencil.png" alt="Research" width="70">
     </p>
-  <div style="text-align:center"><ul><li>I am interested in dynamic scene understanding, multiple object tracking, temporal deep learning and video analysis in general.</li>
+  <div style="text-align:center"><ul><li>I am interested in using semantics for image processing. Having lots of fun with semantic segmentation, object-based image analysis and deep learning!</li>
   <br>
-   <li> I like to code in MatLab and speed things up with some C++, though I am learning Python right now and I like it!</li>
+   <li> The main application areas of the projects I was part of were medicine, remote sensing and manufacturing facilities.</li>
     <br>
-
- <li> I have taught courses on tracking, network flows and organized practical courses on panorama stitching and structure-from motion. I am excited about the next practical course on Deep Learning that we are organizing!</li> 
+ <li> I don’t care much about which language to use for coding but I use a lot of Python, C++ and MatLab. </li> 
  
 </ul> </div>
 
@@ -57,15 +58,13 @@ comments: false
     <img src="{{ site.url }}/images/CV/languages.png" alt="Languages" width="70">
     </p>
   <div style="text-align:center"><ul>
-  El <strong>catal&agrave;</strong> &eacute;s la meva llengua materna. 
+  O <strong>português</strong> é minha língua materna. 
   <br>
-My <strong>english</strong> is hopefully awesome.
+My <strong>english</strong> is quite ok.
  <br>
- Tambi&eacute;n hablo <strong>espa&ntilde;ol</strong>.
+ Je comprends le <strong>français</strong>!
     <br>
-Mi piace anche parlare <strong>italiano</strong>.
- <br>
-Ich spreche ein bisschen <strong>Deutsch</strong>.
+Und ich spreche ein bisschen <strong>Deutsch</strong>, natürlich!
  
 </ul> </div>
 
@@ -75,5 +74,5 @@ Ich spreche ein bisschen <strong>Deutsch</strong>.
 
     
     
-You can also download my [full CV]({{ site.url }}/images/CV/LealTaixe-CV.pdf).
+You can also download my [full CV]({{ site.url }}/images/CV/darioOliveiraCV.pdf).
 

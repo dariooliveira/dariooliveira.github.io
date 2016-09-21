@@ -11,11 +11,11 @@ image:
 
 <ul>
 
-<li>Testing 1 <a href="http://testing.com”><strong>testing</strong></a></li>
+<li>Testing 1 <a href=“http://testing.com”><strong>testing</strong></a></li>
 
 <br>
 
-<li>Testing 2 <a href="http://testing.com”><strong>testing</strong></a></li>
+<li>Testing 2 <a href=“http://testing.com”><strong>testing</strong></a></li>
 
 </ul>
 
