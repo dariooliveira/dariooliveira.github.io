@@ -17,6 +17,8 @@ image:
 
 <li>Testing 2 <a href="http://testing.com"><strong>testing</strong></a></li>
 
+<li>Check out or new <a href="http://testing.com"><font color="red"><strong>paper</strong></font></a> on wtv! </li>
+
 </ul>
 
 </section>
