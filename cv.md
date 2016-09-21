@@ -45,7 +45,7 @@ comments: false
   <p align="center">
     <img src="{{ site.url }}/images/CV/pencil.png" alt="Research" width="70">
     </p>
-  <div style="text-align:center"><ul><li>I am interested in using semantics for image processing. Having lots of fun with semantic segmentation, object-based image analysis and deep learning!</li>
+  <div style="text-align:left"><ul><li>I am interested in using semantics for image processing. Having lots of fun with semantic segmentation, object-based image analysis and deep learning!</li>
   <br>
    <li> The main application areas of the projects I was part of were medicine, remote sensing and manufacturing facilities.</li>
     <br>
