@@ -13,14 +13,16 @@ comments: false
     <p align="center">
     <img src="{{ site.url }}/images/CV/job.png" alt="Work Experience"  width="70">
     </p>
-  <div style="text-align:left”><ul><li>I am a <strong> researcher</strong> at the Systems of Engagement and Insight Group in <a href="http://www.research.ibm.com/labs/brazil/" target="_blank">IBM Research Brazil</a>. </li>
+  <div style="text-align:left"><ul><li>I am a <strong> researcher</strong> at the Systems of Engagement and Insight Group in <a href="http://www.research.ibm.com/labs/brazil/" target="_blank">IBM Research Brazil</a>. </li>
   <br>
  <li> Before, I spent around two years as <strong>Computer Vision researcher</strong> at <a href="http://www.geglobalresearch.com/locations/rio-de-janeiro-brazil">GE Global Research</a> in the Software and Analytics group working with image analytics applied to industry. </li> 
   <br>
  <li> I spend almost two years as a <strong>researcher</strong> at the <a href="http://www.usp.br/“>University of Sao Paulo</a> in <a href="http://http://neuromat.numec.prp.usp.br/">the NeuroMat project</a> doing analytics for Neuroscience. </li> 
  <br>
 <li> I spend a year as a <strong> visiting scholar</strong> at the <a href="http://www.uni-hannover.de/">Leibniz Universität Hannover</a> in Germany, working in the <a href="https://www.tnt.uni-hannover.de/"> Institut für Informationsverarbeitung</a> with <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
+ <br>
 <li> I spend 6 months as a <strong> visiting scholar</strong> at the <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico</a> in Lisbon, working in the <a href="http://welcome.isr.tecnico.ulisboa.pt/"> Institute for Systems and Robotics</a> with <a href="http://users.isr.ist.utl.pt/~msilveira/">Prof. Margarida Silveira</a>. </li>
+ <br>
  <li> I started my academic career as a <strong> researcher</strong> at the <a href="http://www.puc-rio.br/">Pontifical Catholic University of Rio de Janeiro</a> in Brazil, working in the <a href="http://www.lvc.ele.puc-rio.br">Computer Vision lab</a> with <a href="http://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a>. </li></ul> </div>
 
   <br>
@@ -29,7 +31,7 @@ comments: false
   <p align="center">
     <img src="{{ site.url }}/images/CV/education.png" alt="Education" width="70">
     </p>
-  <div style="text-align:left"><ul><li>I have a <strong>PhD</strong> in Computer Vision from the <a href=“www.puc-rio.br”>Pontifical Catholic University of Rio de Janeiro</a> supervised by <a href="http://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a> spending one year in the Leibniz Hannover University under the supervision of <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
+  <div style="text-align:left"><ul><li>I have a <strong>PhD</strong> in Computer Vision from the <a href="www.puc-rio.br">Pontifical Catholic University of Rio de Janeiro</a> supervised by <a href="http://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a> spending one year in the Leibniz Hannover University under the supervision of <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
   <br>
    <li> I have a <strong>PhD</strong> in Computer Vision from the <a href=“www.puc-rio.br”>Pontifical Catholic University of Rio de Janeiro</a> supervised by <a href="http://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a> spending one year in the Instituto Superior Tecnico under the supervision of <a href="http://users.isr.ist.utl.pt/~msilveira/">Prof. Margarida da Silveira</a>.</li>
     <br>
@@ -57,7 +59,7 @@ comments: false
     <p align="center">
     <img src="{{ site.url }}/images/CV/languages.png" alt="Languages" width="70">
     </p>
-  <div style="text-align:left”><ul>
+  <div style="text-align:left"><ul>
   O <strong>português</strong> é minha língua materna. 
   <br>
 My <strong>english</strong> is not that bad!
