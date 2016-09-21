@@ -11,13 +11,15 @@ image:
 
 <ul>
 
-<li>Testing 1 <a href="http://testing.com"><strong>testing</strong></a></li>
+<li>New <a href="http://testing.com"><font color="red"><strong>paper</strong></font> on JSTARS for remote sensing.</a></li>
 
 <br>
 
-<li>Testing 2 <a href="http://testing.com"><strong>testing</strong></a></li>
+<li>New <a href="http://testing.com"><font color="red"><strong>paper</strong></font> on vascular network identification.</a></li>
 
-<li>Check out or new <a href="http://testing.com"><font color="red"><strong>paper</strong></font></a> on wtv! </li>
+<br>
+
+<li>New <a href="http://testing.com"><font color="red"><strong>paper</strong></font></a> on remote sensing whatever! </li>
 
 </ul>
 
