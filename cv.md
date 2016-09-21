@@ -17,7 +17,7 @@ comments: false
   <br>
  <li> Before, I spent around two years as <strong>Computer Vision researcher</strong> at <a href="http://www.geglobalresearch.com/locations/rio-de-janeiro-brazil">GE Global Research</a> in the Software and Analytics group working with image analytics applied to industry. </li> 
   <br>
- <li> I spend almost two years as a <strong>researcher</strong> at the <a href="http://www.usp.br/“>University of Sao Paulo</a> in <a href="http://http://neuromat.numec.prp.usp.br/">the NeuroMat project</a> doing analytics for Neuroscience. </li> 
+ <li> I spend almost two years as a <strong>researcher</strong> at the <a href="http://www.usp.br/">University of Sao Paulo</a> in <a href="http://http://neuromat.numec.prp.usp.br/">the NeuroMat project</a> doing analytics for Neuroscience. </li> 
  <br>
 <li> I spend a year as a <strong> visiting scholar</strong> at the <a href="http://www.uni-hannover.de/">Leibniz Universität Hannover</a> in Germany, working in the <a href="https://www.tnt.uni-hannover.de/"> Institut für Informationsverarbeitung</a> with <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
  <br>
@@ -59,7 +59,7 @@ comments: false
     <p align="center">
     <img src="{{ site.url }}/images/CV/languages.png" alt="Languages" width="70">
     </p>
-  <div style="text-align:left"><ul>
+  <div style="text-align:center"><ul>
   O <strong>português</strong> é minha língua materna. 
   <br>
 My <strong>english</strong> is not that bad!
