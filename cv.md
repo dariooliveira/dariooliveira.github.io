@@ -31,7 +31,7 @@ comments: false
   <p align="center">
     <img src="{{ site.url }}/images/CV/education.png" alt="Education" width="70">
     </p>
-  <div style="text-align:left"><ul><li>I have a <strong>PhD</strong> in Computer Vision from the <a href="www.puc-rio.br">Pontifical Catholic University of Rio de Janeiro</a> supervised by <a href="http://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a> spending one year in the Leibniz Hannover University under the supervision of <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
+  <div style="text-align:left"><ul><li>I have a <strong>PhD</strong> in Computer Vision from the Pontifical Catholic University of Rio de Janeiro supervised by <a href="http://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a> spending one year at the Leibniz Hannover University under the supervision of <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
   <br>
    <li> I have a <strong>PhD</strong> in Computer Vision from the <a href=“www.puc-rio.br”>Pontifical Catholic University of Rio de Janeiro</a> supervised by <a href="http://www.lvc.ele.puc-rio.br/users/raul_feitosa/">Prof. Raul Feitosa</a> spending one year in the Instituto Superior Tecnico under the supervision of <a href="http://users.isr.ist.utl.pt/~msilveira/">Prof. Margarida da Silveira</a>.</li>
     <br>
