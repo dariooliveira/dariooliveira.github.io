@@ -11,11 +11,11 @@ image:
 
 <ul>
 
-<li>New <a href="http://testing.com"><font color="red"><strong>paper</strong></font> on JSTARS for remote sensing.</a></li>
+<li>New <a href="http://testing.com"><font color="red"><strong>paper</strong></font></a> on JSTARS for remote sensing.</li>
 
 <br>
 
-<li>New <a href="http://testing.com"><font color="red"><strong>paper</strong></font> on vascular network identification.</a></li>
+<li>New <a href="http://testing.com"><font color="red"><strong>paper</strong></font></a> on vascular network identification.</li>
 
 <br>
 
