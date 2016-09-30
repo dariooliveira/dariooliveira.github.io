@@ -8,7 +8,7 @@ disqus_shortname: dariooliveira
 owner:
   name:           Dário Oliveira
   avatar:         dario.jpg
-  bio:            #Currently, most of my time is dedicated to uncover the parenting world but in the mean time I truly enjoy working with images! I’m from Rio and currently work at IBM Research in São Paulo, after living some time in Lisbon and Hannover.
+  bio:            #I truly enjoy working with images and semantics, but I must confess my current main activity is uncovering the parenting world… I have lots of fun at IBM Research in São Paulo, miss my lovely hometown Rio and hold nice memories from my time in Lisbon and Hannover.
   email:          
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
@@ -36,7 +36,7 @@ links:
     url: /contact/
  
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Munich
+timezone:    America/Sao_Paulo
 future:      true
 #pygments:    true
 highlighter: rouge
