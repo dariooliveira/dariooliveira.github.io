@@ -1,102 +1,120 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
 <head>
-{% include _head.html %}
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1404.47">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; -webkit-text-stroke: #000000; min-height: 16.0px}
+    span.s1 {font-kerning: none}
+    span.Apple-tab-span {white-space:pre}
+  </style>
 </head>
-
-<body class="page">
-<style>
-    /*********************************
-     The list of publication items
-     *********************************/
-/* The list of items */
-.biblist { }
-
-/* The item */
-.biblist li { }
-
-/* You can define custom styles for plstyle field here. */
-
-
-/*************************************
- The box that contain BibTeX code
- *************************************/
-div.noshow { display: none; }
-div.bibtex {
-	margin-right: 0%;
-	margin-top: 1.2em;
-	margin-bottom: 1em;
-	border: 1px solid silver;
-	padding: 0em 1em;
-	background: #ffffee;
-}
-div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
-<script type="text/javascript">
-    <!--
-    // Toggle Display of BibTeX
-    function toggleBibtex(articleid) {
-        var bib = document.getElementById('bib_'+articleid);
-        if (bib) {
-            if(bib.className.indexOf('bibtex') != -1) {
-                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
-            }
-        } else {
-            return;
-        }
-    }
--->
-    </script>
-
-{% include _browser-upgrade.html %}
-
-{% include _navigation.html %}
-
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http://' %}
-      "{{ page.image.feature }}"
-    {% elsif page.image.feature contains 'https://' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
-
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
-  <article>
-    <h1>{{ page.title }}</h1>
-    <div class="article-wrap">
-      {{ content }}
-
-
-{% include _mypubs.html %}
-
-
-    </div><!-- /.article-wrap -->
-    {% if site.disqus_shortname and page.comments %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    {% endif %}
-  </article>
-</div><!-- /#index -->
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
-
-{% include _scripts.html %}          
-
+<body>
+<p class="p1"><span class="s1">&lt;!doctype html&gt;</span></p>
+<p class="p1"><span class="s1">&lt;!--[if lt IE 7]&gt;&lt;html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"&gt; &lt;![endif]--&gt;</span></p>
+<p class="p1"><span class="s1">&lt;!--[if (IE 7)&amp;!(IEMobile)]&gt;&lt;html class="no-js lt-ie9 lt-ie8" lang="en"&gt;&lt;![endif]--&gt;</span></p>
+<p class="p1"><span class="s1">&lt;!--[if (IE 8)&amp;!(IEMobile)]&gt;&lt;html class="no-js lt-ie9" lang="en"&gt;&lt;![endif]--&gt;</span></p>
+<p class="p1"><span class="s1">&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class="no-js" lang="en"&gt;&lt;!--&lt;![endif]--&gt;</span></p>
+<p class="p1"><span class="s1">&lt;head&gt;</span></p>
+<p class="p1"><span class="s1">{% include _head.html %}</span></p>
+<p class="p1"><span class="s1">&lt;/head&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;body class="page"&gt;</span></p>
+<p class="p1"><span class="s1">&lt;style&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>/*********************************</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">     </span>The list of publication items</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">     </span>*********************************/</span></p>
+<p class="p1"><span class="s1">/* The list of items */</span></p>
+<p class="p1"><span class="s1">.biblist { }</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">/* The item */</span></p>
+<p class="p1"><span class="s1">.biblist li { }</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">/* You can define custom styles for plstyle field here. */</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">/*************************************</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>The box that contain BibTeX code</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>*************************************/</span></p>
+<p class="p1"><span class="s1">div.noshow { display: none; }</span></p>
+<p class="p1"><span class="s1">div.bibtex {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>margin-right: 0%;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>margin-top: 1.2em;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>margin-bottom: 1em;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>border: 1px solid silver;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>padding: 0em 1em;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>background: #ffffee;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p1"><span class="s1">div.bibtex pre { font-size: 75%; overflow: auto;<span class="Apple-converted-space">  </span>width: 100%; padding: 0em 0em;}&lt;/style&gt;</span></p>
+<p class="p1"><span class="s1">&lt;script type="text/javascript"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;!--</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>// Toggle Display of BibTeX</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>function toggleBibtex(articleid) {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>var bib = document.getElementById('bib_'+articleid);</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>if (bib) {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>if(bib.className.indexOf('bibtex') != -1) {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>} else {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>return;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
+<p class="p1"><span class="s1">--&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/script&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% include _browser-upgrade.html %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% include _navigation.html %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if page.image.feature %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;div class="image-wrap"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;img src=</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if page.image.feature contains 'http://' %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"{{ page.image.feature }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% elsif page.image.feature contains 'https://' %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"{{ page.image.feature }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"{{ site.url }}/images/{{ page.image.feature }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>alt="{{ page.title }} feature image"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% if page.image.credit %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;span class="image-credit"&gt;Photo Credit: &lt;a href="{{ page.image.creditlink }}"&gt;{{ page.image.credit }}&lt;/a&gt;&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/div&gt;&lt;!-- /.image-wrap --&gt;</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;div id="main" role="main"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;div class="article-author-side"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% include _author-bio.html %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;article&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;h1&gt;{{ page.title }}&lt;/h1&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;div class="article-wrap"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{ content }}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% include _mypubs.html %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/div&gt;&lt;!-- /.article-wrap --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if site.disqus_shortname and page.comments %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;section id="disqus_thread"&gt;&lt;/section&gt;&lt;!-- /#disqus_thread --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/article&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/div&gt;&lt;!-- /#index --&gt;</span></p>
+<p class="p1"><span class="s1">&lt;div class="footer-wrap"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;footer&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% include _footer.html %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/footer&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/div&gt;&lt;!-- /.footer-wrap --&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% include _scripts.html %} <span class="Apple-converted-space">         </span></span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;/body&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/html&gt;</span></p>
 </body>
 </html>
