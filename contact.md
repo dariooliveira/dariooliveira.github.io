@@ -31,7 +31,7 @@ Rua Tutóia 1157<br>
 <br><br> 
 <img src="{{ site.url }}/images/contact/phone.png" alt="Phone" width="30"> <br><br>
 
-Tel: +55 11 51422356<br>  
+Tel: +55 11 58425643<br>  
     
     <br><br>
 </section>
